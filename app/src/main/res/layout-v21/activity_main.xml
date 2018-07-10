@@ -42,10 +42,10 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:singleLine="false"
+        android:text="@string/Name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:hint="Enter your name here..." />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/editText2"
